@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Court Counter</string>
+    <string name="team_Finn">Finn</string>
+    <string name="team_Lotta">Lotta</string>
+    <string name="_3_points">vacuuming</string>
+    <string name="_2_points">clear the table</string>
+    <string name="free_throw">garbage</string>
+    <string name="reset_button">reset</string>
+    <string name="finn_score">0</string>
+    <string name="lotta_score">0</string>
+
+
+</resources>

@@ -1,0 +1,27 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.NoActionBar">
+        <!-- background color of app bar. -->
+        <item name="colorPrimary">#00e6e6</item> <!-- Background color of buttons in the app -->
+        <item name="colorPrimaryDark">#00e6e6</item>
+        <item name="colorAccent">#e6ffff</item>
+    </style>
+
+    <style name="colorButton" parent="Base.Widget.AppCompat.Button.Colored">
+        <item name="colorAccent">#e6ffff</item>
+        <item name="android:textColor">#003333</item>
+            </style>
+
+
+    <style name="Divider">
+        <item name="android:layout_width">1dp</item>
+        <item name="android:layout_height">400dp</item>
+        <item name="android:background">@android:color/white</item>
+        <item name="android:layout_marginTop">40dp</item>
+    </style>
+
+
+
+</resources>
+
